@@ -2,4 +2,7 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="shift add" />
+  </action>
 </keymap>
